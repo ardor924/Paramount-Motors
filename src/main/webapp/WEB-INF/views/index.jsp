@@ -282,7 +282,7 @@
                class="d-flex justify-content-center align-items-center h-100"
                >
             <div class="text-white text-center">
-              <h2>수입 외제차 독점판매</h2>
+              <h2>수입 외제차 독점예약</h2>
               <a
                  class="btn btn-outline-light btn-lg m-2"
                 href="home.do">

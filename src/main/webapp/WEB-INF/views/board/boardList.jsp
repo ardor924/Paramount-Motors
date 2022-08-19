@@ -153,7 +153,7 @@
 	
 		<!-- 테이블: 번호 제목 글쓴이 등록일 조회수 -->
 	         <td>${bno}</td>
-	         <td><a class="goView" href="<c:url value='${lvo.bid}'/>">${lvo.subject}</a></td>
+	         <td><a class="goView" style="color:#c36f51" href="<c:url value='${lvo.bid}'/>">${lvo.subject}</a></td>
 	         <td>${lvo.writer}</td>
 	         <td><fmt:formatDate pattern="yyyy-MM-dd" value="${lvo.regDate}"/></td>
 	         <td>${lvo.hit}</td>
@@ -176,7 +176,7 @@
 	<!-- 페이지 네비게이션(블럭) -->
 	<ul class="pagination justify-content-center my-5 ">
 	  <li class="page-item ${bp.prevPage <=0 ? 'disabled' : ''}"><!--이전 페이징 블럭이 0이하 일 경우, 이전 버튼 비활성화-->
-		     <a class="page-link" href="${bp.prevPage}"><<</a>
+		     <a class="page-link" href="${bp.prevPage}" style="color:black" ><<</a>
 	  </li>
 	  
 	  <c:forEach var="i" begin="${bp.blockStart}" end="${bp.blockEnd}">
@@ -185,14 +185,14 @@
 		end : 반복에 사용될 마지막 항목의 index -->
 	  
 	     <li class="page-item ${bp.viewPage == i ? 'active':''}"><!-- 현재 페이지가 i일 경우 active(현재위치표시역할) -->
-	        <a class="page-link" href="${i}">${i}</a><!-- i로 페이지 이동 -->
+	        <a class="page-link" style="color:white" href="${i}">${i}</a><!-- i로 페이지 이동 -->
 	     </li>
 	  </c:forEach>
 	  
 	  <li class="page-item ${bp.blockEnd >= bp.totalPage ? 'disabled': ''}">
 	  					<!-- 전체게시글 수가 페이징 블럭의 끝번호 보다 작을 경우 disabled(버튼 비활성화) -->
 	  
-	     <a class="page-link" href="${bp.nextPage}">>></a>
+	     <a class="page-link" style="color:white" href="${bp.nextPage}">>></a>
 	  </li>
 	</ul>
 	

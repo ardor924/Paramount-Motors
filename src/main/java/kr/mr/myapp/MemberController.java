@@ -65,7 +65,7 @@ public class MemberController {
 	      
 	      int cnt = memberMapper.memberInsert(dto);
 	      
-	      return "redirect:home.do";
+	      return "redirect:memberLogin.do";
 	   }
 	   
 	   // 중복검사 ID
