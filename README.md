@@ -33,9 +33,7 @@ Black & White
 - home page : 
 
 - Github : https://github.com/ardor924/Paramount-Motors
-- codepen :  https://codepen.io 
-- bootstrap5 : https://getbootstrap.com
-- JQuery datepicker : https://jqueryui.com/datepicker/
+
 
 # 개발기간
 2022.07.21~2022.08.14
@@ -57,3 +55,6 @@ WAS : 톰캣 9.0
 카카오 주소  :
 이니시스 결제 아임포트  :
 
+- codepen :  https://codepen.io 
+- bootstrap5 : https://getbootstrap.com
+- JQuery datepicker : https://jqueryui.com/datepicker/
