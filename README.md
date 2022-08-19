@@ -24,8 +24,12 @@ Black & White
 # TARGET
 슈퍼카와 고급 외제차를 이용하고 싶은 모든 회원
 
+# 발표자료(PPT)
+
+
 # 사이트
-https://github.com/ardor924/Paramount-Motors
+home page : 
+Github : https://github.com/ardor924/Paramount-Motors
 
 # 개발기간
 2022.07.21~2022.08.14
