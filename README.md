@@ -30,9 +30,9 @@ Black & White
 
 
 # 사이트
--home page : 
+- home page : 
 
--Github : https://github.com/ardor924/Paramount-Motors
+- Github : https://github.com/ardor924/Paramount-Motors
 
 # 개발기간
 2022.07.21~2022.08.14
@@ -49,7 +49,7 @@ WAS : 톰캣 9.0
 형상관리 : 깃허브
 
 # References
--Rest API  
+- Rest API  
 카카오 지도  :
 카카오 주소  :
 이니시스 결제 아임포트  :
