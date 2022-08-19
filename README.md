@@ -58,3 +58,12 @@ WAS : 톰캣 9.0
 - codepen :  https://codepen.io 
 - bootstrap5 : https://getbootstrap.com
 - JQuery datepicker : https://jqueryui.com/datepicker/
+
+# Paramount Motors 팀
+
+김태원 : API적용 및 화면구현
+박서연 : API 적용 및 화면 구현
+박시현 : 서버(백엔드), 깃허브 형상관리
+양창환 : 서버(백엔드), SQL
+이상종 : 화면 구현 및 JS 활용
+이현희(팀장) : 기획, 설계, 서버(백엔드)
