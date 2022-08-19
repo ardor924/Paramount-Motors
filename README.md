@@ -30,8 +30,8 @@ Black & White
 
 
 # 사이트
-home page : 
-Github : https://github.com/ardor924/Paramount-Motors
+-home page : 
+-Github : https://github.com/ardor924/Paramount-Motors
 
 # 개발기간
 2022.07.21~2022.08.14
