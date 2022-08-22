@@ -50,12 +50,13 @@ WAS : 톰캣 9.0
 형상관리 : 깃허브
 
 # References
-- Rest API  
+- RESTful API  
 
-카카오 지도  :
+카카오 지도  : https://apis.map.kakao.com/
 
-카카오 주소  :
-이니시스 결제 아임포트  :
+카카오 주소  : https://postcode.map.daum.net/
+
+이니시스 결제 아임포트  : https://admin.iamport.kr/
 
 - codepen :  https://codepen.io 
 - bootstrap5 : https://getbootstrap.com
