@@ -45,8 +45,11 @@ Black & White
 Java / HTML / CSS / JS (Jquery / Ajax)
 
 프레임워크 : 스프링, Mybatis
+
 서버 : MySQL
+
 WAS : 톰캣 9.0
+
 형상관리 : 깃허브
 
 # References
