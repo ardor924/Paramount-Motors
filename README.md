@@ -44,7 +44,7 @@ Black & White
 사용언어 :
 Java / HTML / CSS / JS (Jquery / Ajax)
 
-프레임워크 : 스프링, Mybatis
+프레임워크 : 스프링(Mybatis)
 
 서버 : MySQL
 
