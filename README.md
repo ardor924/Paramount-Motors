@@ -65,7 +65,10 @@ WAS : 톰캣 9.0
 - bootstrap5 : https://getbootstrap.com
 - JQuery datepicker : https://jqueryui.com/datepicker/
 
-# 참고블로그
+# 참고 블로그 목록
+https://cceeun.tistory.com/83
+https://wayhome25.github.io/git/2017/07/08/git-first-pull-request-story/
+https://ming9mon.tistory.com/66
 
 # Paramount Motors 팀
 
