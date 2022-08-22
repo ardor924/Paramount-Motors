@@ -40,7 +40,8 @@ Black & White
 사이트 지속적으로 업데이트 및 버그픽스 예정
 
 # 사이트 구성 로드맵
-![사이트 로드맵 TEST](https://user-images.githubusercontent.com/106001182/185865487-dcbdb78d-00d8-44f0-843f-1e650fdf8cf4.png)
+![페이지 설계 구성도](https://user-images.githubusercontent.com/106001182/185879017-4bd6bbe3-881f-414e-b9d1-01b12f2b4a10.png)
+
 
 # DB설계
 ![DB설계](https://user-images.githubusercontent.com/106001182/185865274-f02d2662-8955-4a0d-a214-acd2ce026ad7.png)
