@@ -41,7 +41,7 @@ Black & White
 
 # 기술스택
 
-사용언어 
+사용언어 :
 Java / HTML / CSS / JS (Jquery / Ajax)
 
 프레임워크 : 스프링, Mybatis
