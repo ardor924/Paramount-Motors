@@ -30,7 +30,7 @@ Black & White
 
 
 # 사이트
-- home page : 
+- home page : AWS등록 및 도메인 등록 예정
 
 - Github : https://github.com/ardor924/Paramount-Motors
 
@@ -51,7 +51,9 @@ WAS : 톰캣 9.0
 
 # References
 - Rest API  
+
 카카오 지도  :
+
 카카오 주소  :
 이니시스 결제 아임포트  :
 
