@@ -11,6 +11,10 @@ Just Ride it
 
 이 점에 주목하여 고급 수입 자동차를 렌트하는 사이트를 기획하게 되었습니다.
 
+# 개발기간
+2022.07.21~2022.08.14
+사이트 지속적으로 업데이트 및 버그픽스 예정
+
 # CONCEPT & COLOR
 
 - CONCEPT :
@@ -26,27 +30,6 @@ Black & White
 - TARGET :
 슈퍼카와 고급 외제차를 이용하고 싶은 모든 회원
 
-# 발표자료(PPT)
-
-
-# 사이트
-- home page : AWS등록 및 도메인 등록 예정
-
-- Github : https://github.com/ardor924/Paramount-Motors
-
-
-# 개발기간
-2022.07.21~2022.08.14
-사이트 지속적으로 업데이트 및 버그픽스 예정
-
-# 사이트 구성 로드맵
-![페이지 설계 구성도](https://user-images.githubusercontent.com/106001182/185879017-4bd6bbe3-881f-414e-b9d1-01b12f2b4a10.png)
-
-
-# DB설계
-![DB설계](https://user-images.githubusercontent.com/106001182/185865274-f02d2662-8955-4a0d-a214-acd2ce026ad7.png)
-
-
 # 기술스택
 
 사용언어 :
@@ -59,6 +42,23 @@ Java / HTML / CSS / JS (Jquery / Ajax)
 WAS : 톰캣 9.0
 
 형상관리 : 깃허브
+
+# 발표자료(PPT)
+
+
+# 사이트
+- home page : AWS등록 및 도메인 등록 예정
+
+- Github : https://github.com/ardor924/Paramount-Motors
+
+
+# 사이트 구성 로드맵
+![페이지 설계 구성도](https://user-images.githubusercontent.com/106001182/185879017-4bd6bbe3-881f-414e-b9d1-01b12f2b4a10.png)
+
+
+# DB설계
+![DB설계](https://user-images.githubusercontent.com/106001182/185865274-f02d2662-8955-4a0d-a214-acd2ce026ad7.png)
+
 
 # References
 - RESTful API  
