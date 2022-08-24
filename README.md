@@ -58,8 +58,9 @@ WAS : 톰캣 9.0
 
 
 # DB설계
-![DB01](https://user-images.githubusercontent.com/106001182/186489491-a81f8d37-264c-4dbb-a697-60e783a71714.png)
+![DB001](https://user-images.githubusercontent.com/106001182/186500162-7336a59a-2b93-4dd6-9ecc-0dd09829d59e.png)
 
+![DB002-2논리 물리](https://user-images.githubusercontent.com/106001182/186500179-4fb42bd2-b7ee-425a-b859-a943721bbd5c.png)
 
 # References
 - RESTful API  
