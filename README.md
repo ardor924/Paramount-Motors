@@ -62,6 +62,8 @@ WAS : 톰캣 9.0
 
 ![DB002-2논리 물리](https://user-images.githubusercontent.com/106001182/186500179-4fb42bd2-b7ee-425a-b859-a943721bbd5c.png)
 
+DB Modeling : https://www.erdcloud.com/
+
 # References
 - RESTful API  
 
@@ -74,7 +76,6 @@ WAS : 톰캣 9.0
 - codepen :  https://codepen.io 
 - bootstrap5 : https://getbootstrap.com
 - JQuery datepicker : https://jqueryui.com/datepicker/
-- DB Modeling : https://www.erdcloud.com/
 
 # Paramount Motors 팀
 
