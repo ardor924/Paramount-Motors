@@ -58,7 +58,7 @@ WAS : 톰캣 9.0
 
 
 # DB설계
-![DB1](https://user-images.githubusercontent.com/106001182/186488786-84fb5d68-56ba-42fc-a7d4-c3ec62f42b83.png)
+![DB01](https://user-images.githubusercontent.com/106001182/186489491-a81f8d37-264c-4dbb-a697-60e783a71714.png)
 
 
 # References
